@@ -296,6 +296,12 @@ def send_screen(message):
     except Exception as e:
         handle_error(message, e)
 
+# def main_keyboard():
+#     keyboard = types.ReplyKeyboardMarkup(resize_keyboard=True)
+#     keyboard.add('/commands', '/help')
+#     return keyboard
+
+
 @bot.message_handler(commands=['commands'])
 def send_commands(message):
     bot.send_message(message.chat.id, 'Commands:\n\n'
