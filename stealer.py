@@ -305,6 +305,7 @@ def send_screen(message):
 @bot.message_handler(commands=['commands'])
 def send_commands(message):
     bot.send_message(message.chat.id, 'Commands:\n\n'
+                              '/commands - list of commands\n'
                               '/screen - screenshot\n'
                               '/info - info about user\n'
                               '/location - location on a map\n'
